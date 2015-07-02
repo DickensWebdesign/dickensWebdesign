@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+	<url>
+		<loc>http://www.dickens-webdesign.de/</loc>
+		<changefreq>daily</changefreq>
+	</url>
+
+	<url>
+		<loc>http://www.dickens-webdesign.de/leistungen.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.dickens-webdesign.de/index.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.dickens-webdesign.de/projekte.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.dickens-webdesign.de/preise.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.dickens-webdesign.de/kontakt.php</loc>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.dickens-webdesign.de/img/gallery/med1.jpg</loc>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.dickens-webdesign.de/img/gallery/</loc>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.dickens-webdesign.de/img/gallery/med2.jpg</loc>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.dickens-webdesign.de/img/gallery/med3.jpg</loc>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.dickens-webdesign.de/img/gallery/med4.jpg</loc>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.dickens-webdesign.de/img/gallery/med5.jpg</loc>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.dickens-webdesign.de/img/gallery/med6.jpg</loc>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.dickens-webdesign.de/img/gallery/photography1.jpg</loc>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.dickens-webdesign.de/img/gallery/photography2.jpg</loc>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.dickens-webdesign.de/img/gallery/photography3.jpg</loc>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.dickens-webdesign.de/img/gallery/photography4.jpg</loc>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.dickens-webdesign.de/img/gallery/photography5.jpg</loc>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.dickens-webdesign.de/img/gallery/photography6.jpg</loc>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+</urlset>
